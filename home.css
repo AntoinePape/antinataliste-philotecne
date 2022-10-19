@@ -1,0 +1,92 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	color: white;
+	background-color: black;
+	font-family: Times;
+}
+div.banner {
+	width: 100%;
+	height: 7em;
+	background-color: black;
+	border-bottom: double;
+	position: relative;
+	top: 0;
+}
+div.title {
+	width: 65.5em;
+	margin: auto;
+}
+div.grid {
+	display: grid;
+	grid-template-columns: auto auto auto auto auto auto;
+	justify-content: center;
+	margin: auto;
+}
+div.box {
+	width: 12em;
+	height: 20em;
+	margin: 0 2em;
+}
+h1 {
+	font-size: 6em;
+	text-align: center;
+	margin-top: 0.5em;
+}
+h2 {
+	font-size: 1.2em;
+	font-weight: normal;
+	text-align: center;
+	line-height: 1.5;
+}
+p {
+	font-size: 1em;
+	text-align: center;
+	margin-bottom: 5em;
+}
+address {
+	font-size: 0.8em;
+	position: absolute; 
+	bottom: 0;
+	left: 0.2em;
+}
+img.banner {
+	width: 100%;
+	height: 100%;
+}
+img.thumbnail {
+	width: 89%;
+	display: center;
+	margin: auto;
+	padding: 0.5em;
+	border: solid 0.3em;
+}
+a {
+	color: #ff8c00;
+	text-decoration: none;
+}
+a:visited {
+	color: #b76400;
+}
+a:hover {
+	color: none;
+}
+a:active {
+	color: white;
+}
+a.thumbnail {
+	color: white
+}
+a.thumbnail:visited {
+	color: white;
+}
+::selection {
+	color: white;
+	background: #ff8c00;
+}
+::-moz-selection {
+	color: white;
+	background: #ff8c00;
+}
