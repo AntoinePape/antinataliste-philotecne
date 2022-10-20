@@ -91,3 +91,10 @@ a.thumbnail:visited {
 	color: white;
 	background: #ff8c00;
 }
+
+
+@media only screen and (max-width: 768px) {
+	h1 {
+		font-size: 1em;
+	}
+}
