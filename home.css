@@ -93,7 +93,7 @@ a.thumbnail:visited {
 }
 
 
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 1000px) {
 	h1 {
 		font-size: 1em;
 	}
