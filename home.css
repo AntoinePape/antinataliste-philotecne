@@ -16,10 +16,6 @@ div.banner {
 	position: -webkit-sticky;
 	top: 0;
 }
-div.title {
-	width: 65.5em;
-	margin: auto;
-}
 div.grid {
 	display: grid;
 	grid-template-columns: auto auto auto auto auto auto;
@@ -32,7 +28,7 @@ div.box {
 	margin: 0 2em;
 }
 h1 {
-	font-size: 6em;
+	font-size: 3em;
 	text-align: center;
 	margin-top: 0.5em;
 }
@@ -93,8 +89,8 @@ a.thumbnail:visited {
 }
 
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (min-width: 768px) {
 	h1 {
-		font-size: 1em;
+		font-size: 6em;
 	}
 }
