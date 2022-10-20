@@ -90,6 +90,10 @@ a.thumbnail:visited {
 
 
 @media only screen and (min-width: 768px) {
+	div.box {
+	width: 8em;
+	height: 16em;
+	}
 	h1 {
 		font-size: 6em;
 	}
