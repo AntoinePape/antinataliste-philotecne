@@ -121,9 +121,3 @@ a.home:active {
 	color: white;
 	background: #ff8c00;
 }
-
-@media screen and (max-width: 1000px) {
-	div.article {
-		width: 900%;
-	}
-}
