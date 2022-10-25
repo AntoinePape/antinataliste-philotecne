@@ -124,6 +124,6 @@ a.home:active {
 
 @media screen and (max-width: 1000px) {
 	div.article {
-		width: 95%;
+		width: 900%;
 	}
 }
