@@ -2,16 +2,15 @@
 	margin: 0;
 	padding: 0;
 }
-html, body {
-  overflow-x: hidden;
-}
-body {
-  position: relative
+html {
+	overflow-x: hidden;
 }
 body {
 	color: white;
 	background-color: black;
 	font-family: Times;
+	position: relative;
+	overflow-x: hidden;
 }
 div.banner {
 	width: 100%;
