@@ -126,7 +126,12 @@ a.home:active {
 
 
 
-@media screen and (min-width: 780px) {
+
+
+
+
+
+@media only screen and (min-width: 768px) {
 
 div.banner {
 	width: 55%;
