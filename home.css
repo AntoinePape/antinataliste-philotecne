@@ -16,10 +16,6 @@ div.banner {
 	position: -webkit-sticky;
 	top: 0;
 }
-div.home {
-	width: 90%;
-	margin: 0 auto;
-}
 div.grid {
 	display: grid;
 	grid-template-columns: auto auto auto auto auto auto;
