@@ -4,7 +4,7 @@
 }
 body {
 	color: white;
-	background-color: black;
+	background-color: red;
 	font-family: Times;
 }
 div.banner {
@@ -18,7 +18,7 @@ div.banner {
 }
 div.home {
 	width: 90%;
-	margin: auto;
+	margin: 0 auto;
 }
 div.grid {
 	display: grid;
@@ -118,19 +118,23 @@ div.grid {
 }
 div.box {
 	width: 6em;
-	height: 10em;
+	height: 12em;
 }
 h1 {
-	font-size: 3em;
+	font-size: 2.8em;
 }
 h2 {
 	font-size: 0.6em;
 }
 p {
-	font-sze: 0.5;
+	font-sze: 0.3;
 }
 address {
 	font-size: 1.4vw;
+}
+img.thumbnail {
+	width: 89%;
+	border: solid 0.15em;
 }
 
 }
