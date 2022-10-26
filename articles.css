@@ -9,8 +9,6 @@ body {
 	color: white;
 	background-color: black;
 	font-family: Times;
-	position: relative;
-	overflow-x: hidden;
 }
 div.banner {
 	width: 100%;
@@ -138,6 +136,13 @@ a.home:active {
 
 @media only screen and (max-width: 768px) {
 
+html {
+	overflow-x: hidden;
+}
+body {
+	position: relative;
+	overflow-x: hidden;
+}
 div.banner {
 	height: 12vw;
 }
@@ -154,9 +159,9 @@ p {
 	font-size: 0.7em;
 }
 p.home {
-	font-size: 2.6vw;
-	top: 8.7vw;
-	left: 34vw;
+	font-size: 2.8vw;
+	top: 8.5vw;
+	left: 32vw;
 }
 p.date {
 	font-size: 0.5em;
