@@ -4,7 +4,7 @@
 }
 body {
 	color: white;
-	background-color: red;
+	background-color: black;
 	font-family: Times;
 }
 div.banner {
@@ -17,7 +17,7 @@ div.banner {
 	top: 0;
 }
 div.home {
-	width: 50%;
+	width: 90%;
 	margin: auto;
 }
 div.grid {
@@ -102,6 +102,14 @@ a.thumbnail:visited {
 
 
 @media only screen and (max-width: 768px) {
+	
+html {
+	overflow-x: hidden;
+}
+body {
+	position: relative;
+	overflow-x: hidden;
+}	
 div.banner {
 	height: 12vw;
 }	
