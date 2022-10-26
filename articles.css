@@ -17,7 +17,7 @@ div.banner {
 	top: 0;
 }
 div.article {
-	width: 55%;
+	width: 95%;
 	margin: 0 auto 8em auto;
 }
 h1 {
@@ -129,7 +129,7 @@ a.home:active {
 @media screen and (min-width: 780px) {
 
 div.banner {
-	width: 100%;
+	width: 55%;
 	height: 6vw;
 	background-color: black;
 	border-bottom: double;
