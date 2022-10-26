@@ -118,22 +118,24 @@ div.grid {
 }
 div.box {
 	width: 6em;
-	height: 12em;
+	height: 11em;
+	margin: 0 1em;
 }
 h1 {
-	font-size: 0.8em;
+	font-size: 2.25em;
 }
 h2 {
 	font-size: 0.6em;
 }
 p {
-	font-sze: 0.3;
+	font-size: 0.1em;
+	margin-bottom: 30em;
 }
 address {
 	font-size: 1.4vw;
 }
 img.thumbnail {
-	width: 89%;
+	width: 80%;
 	border: solid 0.15em;
 }
 
