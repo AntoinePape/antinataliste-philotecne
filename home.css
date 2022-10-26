@@ -3,7 +3,7 @@
 	padding: 0;
 }
 body {
-	color: red;
+	color: white;
 	background-color: black;
 	font-family: Times;
 }
@@ -128,8 +128,8 @@ h2 {
 	font-size: 0.6em;
 }
 p {
-	font-size: 0.1em;
-	margin-bottom: 30em;
+	font-size: 0.2em;
+	margin-bottom: 20em;
 }
 address {
 	font-size: 1.4vw;
