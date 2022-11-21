@@ -73,6 +73,7 @@ ul {
 }
 li.resources {
 	font-size: 85%;
+	text-align: left;
 	margin: 0 1em 0.5em 1em;
 }
 address {
