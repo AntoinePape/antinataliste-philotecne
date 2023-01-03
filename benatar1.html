@@ -20,6 +20,19 @@
 			li.d:before {
 				content: "(4)";
 			}
+			img.asymmetry {
+				width: 30em; 
+				height: 30em; 
+				display: block; 
+				margin: 0 auto 2em auto;
+			}
+			
+			@media only screen and (max-width: 768px) {
+			
+			img.asymmetry {
+				width: 15em; 
+				height: 15em; 
+			}
 		</style>
 	</head>
 	<body>
@@ -186,7 +199,7 @@
 				jamais n'existe. En A, il y a (1), une présence de douleur qui est mauvaise, ainsi que (2), une présence de plaisir qui est bonne. 
 				En B, il y a (3), une absence de douleur qui est bonne, ainsi que (4), une absence de plaisir qui n'est pas mauvaise.
 			</p>
-			<img src="images/asymetrie.png" alt="Matrice de Benatar" style="width:30em; height:30em; display:block; margin:0 auto 2em auto;">
+			<img class="asymmetry" src="images/asymetrie.png" alt="Matrice de Benatar">
 			<p>
 				On peut démontrer que B est préférable à A en comparant (1) avec (3) et (2) avec (4). Comme (4) n'est pas mauvais, il n'est 
 				comparativement pas pire que (2). Si (4) n'est pas pire que (2), ce dernier n'est pas mieux que (4) et lui est donc équivalent. 
