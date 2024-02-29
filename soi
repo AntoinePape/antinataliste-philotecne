@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <title>Je nait un autre : illusion du soi et antinatalisme</title>
+    <meta name="author" content="Antoine Pape">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="icon" href="images/icon.ico">
+    <link rel="stylesheet" href="./article.css">
+    <style>
+      ol {
+        list-style: none;
+        counter-reset: item;
+      }
+      li {
+        margin-left: 2.5em;
+        text-indent: -2.5em;
+      }
+      li:before {
+        content: "–";
+        counter-increment: item;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="images/mont-terri.jpg">
+      <a href="/index.html">Accueil</a>
+    </header>
+    <main>
+
+      <time datetime="2024-02-29">29 février 2024</time>
+      <h1>Je nait un autre<br>Illusion du soi et antinatalisme</h1>
+      <figure>
+        <img src="images/offering.png">
+        <figcaption>
+          Des êtres imbriqués les uns dans les autres, d’après
+		  l’<a href="https://erikthorsandberg.com/artwork/4389118-Offering.html" target="_blank"><i>Offering</i> d’Erik Thor Sandberg</a>.
+	    </figcaption>
+	  </figure>
+
+      <p>
+        Que se passe-t-il lorsque l’on meurt ? C’est à cette question que
+		Thomas W. Clark, alias Tom Clark, propose une réponse dans un bref
+		essai intitulé
+		« <a href="https://www.naturalism.org/philosophy/death/death-nothingness-and-subjectivity" target="_blank"><i>Death, Nothingness, and Subjectivity</i></a> »
+		(Mort, néant, et subjectivité). Voici une expérience de pensée :
+		imaginons qu’on altère légèrement la mémoire d’une personne durant son
+		sommeil. À son réveil, malgré le fait qu’elle a par exemple oublié un
+		souvenir, celle-ci aura toujours l’impression d’être elle-même.
+		Imaginons maintenant qu’on altère cette personne de manière plus
+		radicale (son cerveau, son corps, voire chacune de ses cellules). Du
+		point de vue externe, ce n’est plus la même personne et ses proches
+		diraient probablement que celle qu’ils connaissaient n’existe plus,
+		qu’elle est morte. Pourtant, de son point de vue, la personne pensera
+		toujours être « elle-même », peu importe le nombre de changements
+		qu’elle a subi. Puisque tout le monde se dit : « Je suis moi », je
+		peux considérer en quelque sorte qu’une autre personne, quoique
+		radicalement différente, n’est au final qu’un autre « moi » auquel on
+		aurait changé toutes ses cellules. Tom Clark dira que ce n’est que le
+		contexte qui change d’un individu à l’autre. Ainsi, avant ma naissance
+		et après ma mort, « je » existait et existera puisqu’il y a
+		continuellement d’autres êtres conscients qui sont tous « moi » selon
+		leur contexte respectif.
+      </p>
+      <p>
+        Tout cela peut sembler bien étrange (d’autant plus que je résume
+		beaucoup). Pourtant, la question ainsi que la remise en question de
+		l’identité personnelle est assez classique en philosophie ; le concept
+		bouddhique d’<i>anātman</i> (ou <i>anattā</i>) concluait par exemple
+		depuis longtemps que le soi est une illusion. Si l’on adopte cette
+		position, il faut se pencher sur ses implications morales. Le
+		philosophe Daniel Kolak, qui a introduit le terme d’<i>Open
+		Individualism</i> (individualisme ouvert), en discute dans un ouvrage
+		de plus de 600 pages (Kolak, 2004). En guise d’introduction, je
+		recommanderais plutôt le livre de Magnus Vinding, dix fois plus court
+		(Vinding, 2017). Ce qui nous intéressera ici, ce sont les implications
+		en ce qui concerne l’éthique de la reproduction. Nous lirons ce que
+		Jean-Christophe Lurenbaum a à nous dire dans son livre – <i>Naître
+		est-il dans l'intérêt de l'enfant ? : idéologie de reproduction </i>
+		versus <i>non-souffrance</i> – écrit en 2011.
+      </p>
+      <p>
+        Jean-Christophe Lurenbaum nomme « conscience individuelle » l’idée
+		commune que chacun de nous est un individu distinct des autres,
+		délimité dans le temps par la naissance et la mort. Il appelle
+		« conscience universelle » (expliquée au chapitre 5 de son livre)
+		cette idée selon laquelle tous les êtres sensibles forment un tout,
+		que « je » suis chacun d’entre eux. À la question de savoir si naitre
+		est dans l’intérêt de l’enfant selon une conscience individuelle, sa
+		réponse est catégorique :
+      </p>
+      <blockquote>
+        Pour une société qui en est restée à la conscience individuelle, cette
+		culture où chacun se pense exclusivement distinct de l'autre, la
+		réponse est d'une logique implacable : faire naître n'est pas dans
+		l'intérêt du futur enfant car il pourrait en subir un préjudice alors
+		que ne pas naître lui évite tout préjudice, quelle que soit la
+		définition que la société a choisi de donner au terme
+		<i>préjudice</i>.
+        <cite>
+		  Jean-Christophe Lurenbaum, <i>Naître est-il dans l'intérêt de
+		  l'enfant ?</i>, p. 149
+		</cite>
+	  </blockquote>
+      <p>
+        On retrouve ici la même conclusion à laquelle arrivait David Benatar
+		avec son <a href="benatar1.html">asymétrie</a>. Jean-Christophe 
+		Lurenbaum pense en outre que dans une culture de la conscience
+		individuelle, cesser de vivre serait encore la chose la plus
+		rationnelle à faire, puisque cela permettrait d’éviter tout préjudice
+		supplémentaire. David Benatar ne serait pas d’accord sur ce point car
+		il existe à son avis une différence cruciale entre commencer à vivre
+		(qui est toujours un mal) et continuer à vivre (qui n’est pas
+		forcément pire qu’une mort hâtive).
+	  </p>
+      <p>
+        Passons maintenant à la conscience universelle et voyons ce qu'il en
+		est de la reproduction :
+	  </p>
+      <blockquote>
+        Par contre, dans une société qui a opté pour la culture de la
+		conscience universelle, cette conscience à laquelle tout humain peut
+		<i>décider</i> d'accéder et qui consiste à se considérer être à la
+		même place que tout être sensible du point de vue de la souffrance,
+		faire naître peut être dans l'intérêt de l'enfant, ou peut ne pas
+		l'être. La réponse est indéterminée.
+        <cite><i>Ibid</i>., p. 150-51</cite>
+	  </blockquote>
+      <p>
+        La naissance d’un enfant pourrait avoir un impact positif sur les
+		autres êtres sensibles. Comme la conscience universelle ne fait pas de
+		différence entre ces derniers et le potentiel enfant, on peut dire que
+		celui-ci a un intérêt à naitre si sa présence permet de réduire la
+		souffrance d’autrui, souffrance qui est également la sienne
+		puisqu’« il » existe déjà à travers celles et ceux qui vivent en ce
+		moment même. Procréer ou ne pas procréer devient alors une décision
+		qui doit prendre en considération non pas seulement le bien-être de
+		l’enfant, des parents, de la nation ou de l’humanité, mais <i>du
+		monde</i> :
+	  </p>
+      <blockquote>
+        Dans le continent de la non-souffrance, faire un enfant n'est
+		moralement légitime que dans le cadre d'une culture de la conscience
+		universelle, après évaluation raisonnable des risques de souffrances
+		ou des chances de non-souffrance et de bonheur liés à cette naissance,
+		pour tous les êtres sensibles présents et à-venir qui en seraient
+		impactés.
+        <cite><i>Ibid</i>., p. 163</cite>
+	  </blockquote>
+      <p>
+        Ainsi, la condition pour se reproduire est respectée « si l'enfant qui
+		naîtra a lui-même de moindres risques de souffrir que sa contribution
+		à la réduction de la souffrance universelle » (<i>ibid</i>., p. 173),
+		ce qui semble pouvoir se traduire par la formule suivante :
+      </p>
+      <p style="text-align: center">
+        <i>souffrance de l’enfant</i> &lt; <i>souffrance réduite grâce à
+		l’enfant</i>
+      </p>
+      <p>
+        La naissance de l'inventeur de l'anesthésie a sans doute su satisfaire
+		cette condition. Elle reste toutefois une exception et non la règle si
+		l’on écoute David Benatar. D’après ses réflexions sur la
+		<a href="benatar2.html">qualité de la vie</a>, la <i>souffrance de
+		l’enfant</i> risque de se révéler bien pire que ce que la plupart
+		d’entre nous évaluerait, tandis que selon son
+		<a href="misanthrope.html">argument misanthrope</a>, il ne faut pas
+		s’attendre à ce que la <i>souffrance réduite grâce à l’enfant</i>
+		puisse compenser la souffrance <i>ajoutée</i> par l’enfant. Je ressens
+		une difficulté quant à l’utilisation que l’on pourrait faire de la
+		formule ci-dessus : imaginons un enfant qui trouverait le moyen de
+		faire disparaitre à jamais les ampoules au pied, une douleur
+		relativement bénigne à laquelle j’attribuerai la valeur indicative de
+		0,1 « kilosouffrance ». Admettons que s’il venait à exister, l'enfant
+		mènerait une vie exécrable de 10’000 kilosouffrances. Sa naissance
+		est-elle justifiée si elle permet d’éviter des ampoules à au moins
+		100’001 personnes ? (En effet : 10’000 &lt; 100’001 × 0,1.) Je suis
+		convaincu que non : des trilliards de personnes peuvent bien supporter
+		d’avoir mal aux pieds de temps à autre si c’est pour éviter l’enfer à
+		leur congénère. La simple addition de la souffrance de plusieurs
+		individus ne permet donc pas d’aboutir à des conclusions acceptables,
+		du moins pas dans le cas présenté.
+	  </p>
+      <p>
+        Procréer, c’est parier que son enfant aura une vie décente pour les 80
+		années à venir (je prends l’espérance de vie européenne). Or, comme
+		personne ne peut prédire l’avenir sur une aussi longue période, il
+		n’est pas raisonnable de croire que rien de grave ne pourrait lui
+		arriver. De la même manière, il est impossible de garantir que
+		l’enfant sera un bénéfice net pour le monde. Soyons honnêtes : si nous
+		ne parvenons pas nous-mêmes à sauver la planète – pour prendre le cas
+		de l’écologie –, en quoi nos descendants le feraient-ils mieux que
+		nous ? Plutôt que de repousser nos responsabilités sur les générations
+		futures, il y a des paris moins risqués que la procréation et dont
+		l’impact peut se vérifier sur le cours terme : on songera aux œuvres
+		caritatives, à l’aide humanitaire ou à l’adoption qui me parait
+		particulièrement rentable, si je puis dire. En effet, on a vu qu’avant
+		de se reproduire, il faudrait tenir compte à la fois de la
+		<i>souffrance de l’enfant</i> et de la <i>souffrance réduite grâce à
+		l’enfant</i>, deux variables plus qu’incertaines. Avec l’adoption en
+		revanche, on a de bonnes raisons de penser que la <i>souffrance de
+		l’enfant</i>, déjà existante, sera au moins un peu réduite, en tout
+		cas plus que si on laissait l’enfant adoptable à son sort. Pour une
+		personne qui se revendique de la conscience universelle, pour qui il
+		ne devrait pas y avoir une plus grande différence entre un être qui
+		partage ses gènes et un être quelconque, je ne vois pas ce qui
+		l’inciterait à avoir un enfant biologique plutôt qu’adoptif. Si tous
+		les potentiels parents se portaient volontaires à l’adoption avant de
+		procréer, on trouverait sans doute en un rien de temps suffisamment de
+		familles pour tous les enfants à accueillir. Dans un monde aussi
+		altruiste, peut-être qu’il serait enfin bon d’y vivre et d’y naitre !
+      </p>
+      <p>
+        Jean-Christophe Lurenbaum termine son livre par dix caractéristiques
+		que comporterait une société favorisant la non-souffrance et le
+		bonheur :
+      </p>
+      <ol>
+        <li> 
+		  <span style="margin-left:1.7em;">lutte contre la douleur subie et
+		  mise à disposition de méthodes permettant d'éviter la souffrance dès
+		  le plus jeune âge ;</span>
+	    </li>
+        <li>
+          <span style="margin-left:1.7em;">souci du bien-être des êtres
+		  sensibles autres qu'humains ;</span>
+        </li>
+		<li>
+          <span style="margin-left:1.7em;">individuation des droits plutôt que
+		  communautarisme (valeur d'égalité) ;</span>
+		</li>
+        <li>
+          <span style="margin-left:1.7em;">l'individu n'ayant pas choisi de
+		  naître, revenu universel versé inconditionnellement de la naissance
+		  à la mort, modalité essentielle de la solidarité collective ;</span>
+		</li>
+        <li>
+          <span style="margin-left:1.7em;">vis-à-vis des plus jeunes, la
+		  société aurait une mission de guidance vers l'autonomie ;</span>
+        </li>
+		<li>
+          <span style="margin-left:1.7em;">accès aux droits fondé sur la
+		  capacité à les exercer, sur l'autonomie, plutôt que sur l'arbitraire
+		  de l'âge ;</span>
+        </li>
+        <li>
+          <span style="margin-left:1.7em;">un <i>droit de ne pas naître</i>
+		  tiendrait compte des perspectives raisonnables de souffrance et de
+		  bonheur de l'enfant et des générations futures ;</span>
+        </li>
+        <li>
+          <span style="margin-left:1.7em;">liberté à disposer de son corps
+		  (valeur de liberté) ;</span>
+		</li>
+        <li>
+		  <span style="margin-left:1.7em;"><i>droit à la mort choisie</i>, à
+		  une mort douce ;</span>
+        </li>
+        <li>
+          <span style="margin-left:1.7em;">et éveil à la conscience
+		  universelle, socle d'une « éducation civique ».</span>
+        </li>
+		<cite><i>Ibid</i>., p. 175-76</cite>
+
+	  </ol>
+      <p>
+        Si ce genre d'initiatives étaient appliquées, je pourrais reconsidérer
+        mon antinatalisme. Mais pour l’heure, je pense qu’il vaut mieux faire
+		la « grève des ventres », pour reprendre l’expression de Marie Huot :
+      </p>
+      <blockquote>
+        Ce que propose Marie Huot c’est l’interruption générale de la
+		reproduction (c’est elle qui lança la première le slogan « grève des
+		ventres ») jusqu’au bouleversement révolutionnaire de la société,
+		cette interruption pouvant être définitive si l’espèce humaine se
+		révélait incapable de bâtir un type de société qui ne soit pas basé,
+		dit-elle, sur le crime.
+        <cite>Francis Ronsin, <i>La grève des ventres</i>, p. 44</cite>
+      </blockquote>
+      <p>
+        Certains pensent que cette solution n’est pas la meilleure façon de réduire la souffrance. Un <a href="https://magnusvinding.com/2021/02/20/antinatalism-and-reducing-suffering/" target="_blank">essai de Magnus Vinding</a> avance qu’une forte population humaine permet d’occuper plus d’espace, de moins en laisser aux autres espèces, de diminuer ainsi le nombre d’animaux sauvages dont le quotidien est plus rude que le nôtre, et donc de réduire la souffrance dans la nature. Cet argument n’est pas idiot, mais il me pose problème. 
+      </p>
+      <p>
+        D’abord, je trouve que c’est un peu mettre la charrue avant les bœufs : si l’on aspire à résoudre le problème de la souffrance dans le monde sauvage – projet ô combien titanesque –, il faudrait en premier lieu que l’humanité soit sensibilisée à la cause animale. Or, l’écrasante majorité s’en contrefout, refusant de se passer de steaks. Il me paraitrait orgueilleux que l’homme prétende changer le monde avant son assiette. Aussi, il faut bien se rendre compte de ce que monopoliser l’espace signifie. Pour s’étendre, l’homme a rasé des forêts, les a brûlées ou a inondés des vallées pour bâtir des centrales hydroélectriques. Combien d’animaux ont péri carbonisés ou noyés ? On me répondra que cette souffrance ponctuelle est compensée à long terme par l’absence d’animaux qui s’entre-dévorent. Cette logique purement conséquentialiste me dérange. Est-ce vraiment la place de l’homme d’intervenir de la sorte dans la nature, quitte à massacrer tant d’animaux ? Est-ce vertueux de piétiner l’habitat de milliers d’espèces ? Osera-t-on encore dire que c’est pour leur bien que nous les éliminons, alors que la plupart des hommes ne terraforme le paysage que dans leurs uniques intérêts ? Jusqu’où doit-on aller ? Faut-il comme Marie Huot tuer les chatons venant de naitre afin d'éviter que pire ne leur arrive (<a href="https://tpsalomonreinach.mom.fr/Reinach/MOM_TP_129996/MOM_TP_129996_0001/PDF/MOM_TP_129996_0001.pdf" target="_blank"><i>Le mal de vivre</i>, p. 13-15</a>) ? Faudrait-il, comme l’envisage <a href="https://reducing-suffering.org/habitat-loss-not-preservation-generally-reduces-wild-animal-suffering/#The_uncertain_impact_of_meat_production" target="_blank">Brian Tomasik</a> (cité dans l’essai de Magnus Vinding), continuer à consommer de la viande si cela permet de prévenir la souffrance chez les animaux sauvages ? Je trouve cette idée répugnante. Je crois que nous avons un fort devoir de ne pas causer nous-mêmes de préjudices, tandis que le devoir de prévenir la souffrance est beaucoup moins fort.
+      </p>
+      <p>
+        J’ai commencé cet article par le concept selon lequel il n’y a pas de différence entre moi et autrui. Cela ne doit pas être une raison pour que j’impose à mes semblables mes idées, mes valeurs ou mon éthique, sous prétexte qu’ils sont d’autres « moi » avec les mêmes envies. Je pense que s’abstenir d’engendrer un enfant ou de reproduire des animaux est une bonne façon de ne pas imposer sa volonté à quiconque.
+      </p>
+
+      <hr>
+      <h3>Ressources</h3>
+      <q>
+        Daniel Kolak, <i>I Am You : The Metaphysical Foundations for Global
+		Ethics</i>, Dordrecht : Springer, 2004.
+      </q>
+      <q>
+        Magnus Vinding, <i>You Are Them</i>, Ratio Ethica, 2017,
+		<a class="url", href="https://www.smashwords.com/books/view/719903", target="_blank">https://www.smashwords.com/books/view/719903</a>.
+      </q>
+      <q>
+        Jean-Christophe Lurenbaum, <i>Naître est-il dans l'intérêt de
+		l'enfant ? : idéologie de reproduction </i>versus
+		<i>non-souffrance</i>, Raleigh : Lulu.com, 2011,
+		<a class="url", href="https://jcl.algosphere.org/naitre-gratuit.pdf", target="_blank">https://jcl.algosphere.org/naitre-gratuit.pdf</a>.
+      </q>
+	  <q>
+        Francis Ronsin, <i>La grève des ventres : propagande néo-malthusienne
+		et baisse de la natalité française
+		(<span style="font-variant-caps:all-small-caps;">XIX</span>
+		<sup>e</sup>-
+		<span style="font-variant-caps:all-small-caps;">XX</span><sup>e</sup>
+		siècles)</i>, Paris : Aubier Montaigne, 1980,
+		<a class="url", href="https://www.cairn.info/la-greve-des-ventres--9782700701777.htm", target="_blank">https://www.cairn.info/la-greve-des-ventres--9782700701777.htm</a>.
+      </q>
+      <q>
+        Marie Huot, <i>Le mal de vivre</i>, Paris : Génération consciente,
+		1909,
+		<a class="url", href="https://tpsalomonreinach.mom.fr/Reinach/MOM_TP_129996/MOM_TP_129996_0001/PDF/MOM_TP_129996_0001.pdf", target="_blank">https://tpsalomonreinach.mom.fr/Reinach/MOM_TP_129996/MOM_TP_129996_0001/PDF/MOM_TP_129996_0001.pdf</a>.
+      </q>
+      <q>
+        Carnism Debunked, « Podcast Episode 24 | Dr. David Benatar | Could
+		Anti-natalism Harm Animals? » (22 février 2024), YouTube,
+		<a class="url" href="https://www.youtube.com/watch?v=zhwt2WOUQlY&t=1719s">https://www.youtube.com/watch?v=zhwt2WOUQlY&t=1719s</a>.
+      </q>
+    <main>
+  <body>
+<html>
