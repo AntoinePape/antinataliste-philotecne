@@ -132,6 +132,7 @@ cite {
 
 ol {
   margin: 0 2em 1em 3em;
+  text-align: justify;
 }
 
 ul.poem {
@@ -142,6 +143,10 @@ ul.poem > li {
   list-style: none;
   text-align: left;
   text-indent: -2em;
+}
+
+ul.poem > br {
+  line-height: 1;
 }
 
 a {
